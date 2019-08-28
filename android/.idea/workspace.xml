@@ -12,7 +12,12 @@
     <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d3ae7e1-65e8-49da-9b8e-e0c606a969ae" name="Default" comment="" />
+    <list default="true" id="7d3ae7e1-65e8-49da-9b8e-e0c606a969ae" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../ReleaseConfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ReleaseConfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../output/ComponentMap.json" beforeDir="false" afterPath="$PROJECT_DIR$/../output/ComponentMap.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../output/ReactBundles/default/example" beforeDir="false" afterPath="$PROJECT_DIR$/../output/ReactBundles/default/example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../output/UpdatePatch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../output/UpdatePatch.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

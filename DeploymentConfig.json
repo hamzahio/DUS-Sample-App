@@ -2,7 +2,7 @@
   "deploymentJob": [
     {
       "repoUrl": "https://github.com/hamzahio/DUS-Sample-App.git",
-      "appVersions": ["1"],
+      "appVersions": ["default"],
       "branchName": "master",
       "shouldDeploy": true,
       "preCompileScript": "ls",
