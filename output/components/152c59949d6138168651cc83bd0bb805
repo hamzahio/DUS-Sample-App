@@ -1,0 +1,1 @@
+__d(function(s,e,a,h){"use strict";var o=e(-5691409669),r=e(4043269826),t={shadowColor:o,shadowOffset:r.shape({width:r.number,height:r.number}),shadowOpacity:r.number,shadowRadius:r.number};a.exports=t},6447427538);

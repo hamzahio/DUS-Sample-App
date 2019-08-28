@@ -1,0 +1,1 @@
+!function(n){Object.assign=function(n,e){for(var f=1;f<arguments.length;f++){var l=arguments[f];if(null!=l)for(var i in l)n[i]=l[i]}return n}}("undefined"!=typeof global?global:"undefined"!=typeof self?self:this);
