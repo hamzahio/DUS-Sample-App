@@ -1,1 +1,1 @@
-{"appConfig":{"default":{"currentUpdateGraph":{"example":{"gitBranch":"master","gitRepoUrl":"https://github.com/hamzahio/DUS-Sample-App.git","bundlePath":"output/ReactBundles/default/example","shouldDeploy":true}}}}}
+{"appConfig":{"1":{"currentUpdateGraph":{"example":{"gitBranch":"master","gitRepoUrl":"https://github.com/hamzahio/DUS-Sample-App.git","bundlePath":"output/ReactBundles/1/example","shouldDeploy":true}}}}}
